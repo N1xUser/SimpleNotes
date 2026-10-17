@@ -3,8 +3,10 @@
 Your notes and to-dos, always within reach on your desktop.
 
 SimpleNotes is inspired by Windows Sticky Notes. It lets you keep reminders on your desktop, behind your other windows, without taking up space on the taskbar. Everything is managed through a small icon next to the clock.
-<img width="591" height="509" alt="image" src="https://github.com/user-attachments/assets/3f48f816-0ea7-4edd-a03c-36fa82ae5e9a" />
-
+<p align="center">
+  <img width="591" height="509" alt="SimpleNotes"
+       src="https://github.com/user-attachments/assets/3f48f816-0ea7-4edd-a03c-36fa82ae5e9a" />
+</p>
 ## Getting started
 
 1. Open `SimpleNotes.exe` inside the `dist` folder.
